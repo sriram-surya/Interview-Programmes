@@ -71,6 +71,15 @@ public class Array {
 		 
 		 Collections.replaceAll(l1, 100, 10);
 		 System.out.println(l1);
+
+//		 l1.remove(3);
+//		 System.out.println(l1);
+//		 l1.add(3,"String");
+//		 System.out.println(l1);
+//		 
+//		 Collections.replaceAll(l1, 100, 10);
+//		 System.out.println(l1);
+
 		 
 		List l2 = new ArrayList<>();
 		l2.add(100);
